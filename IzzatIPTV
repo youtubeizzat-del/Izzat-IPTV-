@@ -12,3 +12,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 #EXTINF:-1 tvg-logo="", TRANSVISION CINEMAX
 http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg?utm_source=ms.wikipedia.org&utm_campaign=index&utm_content=original",HBO ID Sub 
+http://013tv.com:8080/F33848/cbd9779b/197972
